@@ -1,7 +1,7 @@
 # Business Analysis for Retail Operations
 
 
-![Business Analysis for Retail Operations]()
+![Business Analysis for Retail Operations](Assests/Images/Business Analysis of USA Retail Operations.jpg)
 
 
 
